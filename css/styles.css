@@ -5,7 +5,11 @@ body {
 	padding: 1em;
 	background-color: #A4C63A;
 }
-	
+
+.bright {
+	color: red;
+	background-color: yellow;
+}	
 
 p {
   color: white;
